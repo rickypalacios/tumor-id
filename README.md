@@ -7,7 +7,7 @@ Tuesday / Wednesday
 - Research Novel Methods: Aaron
   
 Thursday
-Meet (time?) to
+Meet 5 PM CST to
 - combine code
 - choose novel method and try to apply to model architecture
 
